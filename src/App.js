@@ -1,7 +1,6 @@
 import React from 'react'
-import Button from './class-components'
+import Router2 from './router2'
 
-function App() {
-  return <Button/>
+export default function App() {
+  return <Router2/>
 }
-export default App
